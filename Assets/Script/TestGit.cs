@@ -11,4 +11,15 @@ public class TestGit : MonoBehaviour
     {
         
     }
+
+    void Test1()
+    {
+
+    }
+    void Tset2()
+    {
+        int a = 1;
+        int b = 2;
+
+    }
 }
