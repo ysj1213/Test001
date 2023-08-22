@@ -4,14 +4,10 @@ using UnityEngine;
 
 public class TestGit : MonoBehaviour
 {
+    public int testNumber = 0;
+
     // Start is called before the first frame update
     void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
     {
         
     }
